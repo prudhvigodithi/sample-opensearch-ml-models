@@ -1,0 +1,2 @@
+BASE_DOWNLOAD_PATH: ml-models/model_listing
+VERSION: 2.9.0
